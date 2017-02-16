@@ -1,8 +1,8 @@
 # NSManagedObject
 
 ## 概要
-NSManagedObjectは、テーブルのレコードを表す。
-
+NSManagedObjectは、管理オブジェクトを表現するクラス。<br>
+RDBで表すのであれば、テーブル内レコードのオブジェクトとなる。
 
 ## 関連クラス
 NSManagedObject
